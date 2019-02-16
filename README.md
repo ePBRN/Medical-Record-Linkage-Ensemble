@@ -7,7 +7,7 @@ Kha Vo <kha.vo@unsw.edu.au>,
 Jitendra Jonnagaddala <jitendra.jonnagaddala@unsw.edu.au>,
 Siaw-Teng Liaw <siaw@unsw.edu.au>.
 
-+ All of the code in this repository used Python 3.6 or higher with these prerequisite packages: `numpy`, `pandas`, `sklearn`, and `recordlinkage`. For installing aa missing package, use command `pip install package-name` in a terminal (i.e., cmd in Windows, or Terminal in MacOS).
++ All of the code in this repository used Python 3.6 or higher with these prerequisite packages: `numpy`, `pandas`, `sklearn`, and `recordlinkage`. To install a missing package, use command `pip install package-name` in a terminal (i.e., cmd in Windows, or Terminal in MacOS).
 
 1. Prepare the cleaned datasets for Scheme A, which are stored in two files `febrl3_UNSW.csv` and `febrl3_UNSW.csv`. To reproduce those two files, use Python Notebook (i.e., Jupyter Notebook of Anaconda3 distribution) to run `Rectify_Febrl_Datasets.ipynb`.
 
