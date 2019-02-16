@@ -1,5 +1,5 @@
 # Medical-Record-Linkage-Ensemble
-Medical-Record-Linkage-Ensemble
+
 This repository contains the full code of the paper "Statistical supervised meta-ensemble algorithm for data linkage", published in Journal of Biomedical Informatics. 
 
 Authors: 
