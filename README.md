@@ -2,10 +2,13 @@
 
 This repository contains the full code of the paper "Statistical supervised meta-ensemble algorithm for data linkage", published in Journal of Biomedical Informatics. 
 
-Authors: 
-Kha Vo <kha.vo@unsw.edu.au>,
-Jitendra Jonnagaddala <jitendra.jonnagaddala@unsw.edu.au>,
-Siaw-Teng Liaw <siaw@unsw.edu.au>.
+Vo K, Jonnagaddala J, Liaw ST. Statistical supervised meta-ensemble algorithm for medical record linkage. J Biomed Inform. 2019 Jul;95:103220. doi: 10.1016/j.jbi.2019.103220. Epub 2019 May 31. PMID: 31158554.
+
+# Contact
+
+Email- Jitendra Jonnagaddala <jitendra.jonnagaddala@unsw.edu.au>,
+
+# Instructions
 
 + All of the code in this repository used Python 3.6 or higher with these prerequisite packages: `numpy`, `pandas`, `sklearn`, and `recordlinkage`. To install a missing package, use command `pip install package-name` in a terminal (i.e., cmd in Windows, or Terminal in MacOS).
 
