@@ -3,6 +3,7 @@
 This repository contains the full code of the paper "Statistical supervised meta-ensemble algorithm for data linkage", published in Journal of Biomedical Informatics. 
 
 Vo K, Jonnagaddala J, Liaw ST. Statistical supervised meta-ensemble algorithm for medical record linkage. J Biomed Inform. 2019 Jul;95:103220. doi: 10.1016/j.jbi.2019.103220. Epub 2019 May 31. PMID: 31158554.
+https://doi.org/10.1016/j.jbi.2019.103220
 
 # Contact
 
